@@ -20,7 +20,7 @@ body {
   
   .garis {
       position: relative;
-      left: -10px;
+      left: -1px;
       top: 5rem;
       border: none;
       height: 2px;
@@ -134,7 +134,7 @@ body {
   
   .figur{
     position: absolute;
-    left: -30rem;
+    left: -40rem;
     top: 33rem;
     font-size: 3rem;
     color: #434141;
@@ -144,7 +144,7 @@ body {
   
   .bgfoto{
     position: absolute;
-    height: 20rem;
+    height: 27em;
     width: 78rem;
     background-color: #DCD7C9;
     top: 130rem;
@@ -191,9 +191,10 @@ body {
   
   .foto-item figcaption {
     margin-top: 15px;
-    font-size: 23px;
+    font-size: 1rem;
     color: #333;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* text-align: justify; */
   }
   
   @keyframes geserMasuk {
@@ -206,13 +207,13 @@ body {
   .img5{
     position: absolute;
     left: 1rem;
-    top: 160rem;
+    top: 163rem;
     
   }
   
   .desk3{
     position: absolute;
-    top: 158rem;
+    top: 161rem;
     left: 33rem;
     font-size: 2rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
