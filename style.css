@@ -13,14 +13,14 @@ body {
   .judul{
       position: absolute;
       text-align: center;
-      left: 33rem;
+      left: 32rem;
       color: #454040;
      font-size: 2rem;
   }
   
   .garis {
       position: relative;
-      left: -1px;
+      left: -1rem;
       top: 5rem;
       border: none;
       height: 2px;
@@ -32,7 +32,7 @@ body {
     .bandung{
       position: absolute;
       text-align: center;
-      left: 23rem;
+      left: 20rem;
       color: #434141;
       top: 5rem;
       font-size: 4rem;
@@ -41,14 +41,14 @@ body {
   .img1{
     position: absolute;
     top:15rem ;
-    left: 9rem;
+    left: 7rem;
     width: 1rem;
     height: 1rem;
   }
   
   .tanggal{
     position: absolute;
-    left: 25rem;
+    left: 23rem;
     top: 50rem;
     font-size: 2rem;
     color: #434141;
@@ -56,7 +56,7 @@ body {
   
   .garis2{
     position: relative;
-      left: 1rem;
+      left: -1rem;
       top: 55rem;
       border: none;
       height: 2px;
